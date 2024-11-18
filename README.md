@@ -8,5 +8,7 @@
 # Удачи!
 
 [Задача 1](task1/task1.md)   
-[Задача 2](task2/task2.md)  
+
+[Задача 2](task2/task2.md) - [Result](beasts.csv)
+
 [Задача 3](task3/task3.md)
